@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 # Defining the dimensions of checkerboard
 CHECKERBOARD = (7, 7)
-CHECKERBOARDSIZE = 100
+CHECKERBOARDSIZE = 21
 criteria = (cv2.TERM_CRITERIA_EPS + cv2.TERM_CRITERIA_MAX_ITER, 30, 0.001)
 # Creating vector to store vectors of 3D points for each checkerboard image
 objpoints = []
