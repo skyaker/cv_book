@@ -8,5 +8,5 @@
 
 # Результаты
 
-![result_1](img/result_1.png)
-![result_2](img/result_2.png)
+![result_1](result_1.png)
+![result_2](result_2.png)
